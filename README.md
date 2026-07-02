@@ -1,4 +1,6 @@
-# 免费领取API-[点击这里](https://teamorouter.com/dashboard?tab=api-keys) 🚀[TeamoRouter API](https://teamorouter.com/)-🚀 一个 API Key，接入全球LLM
+<h1 align="center">🎁 免费领取 API KEY - <a href="https://teamorouter.com/dashboard?tab=api-keys">点击这里</a> 🎁</h1>
+
+<h2 align="center">🚀 <a href="https://teamorouter.com/">TeamoRouter API</a> - 一个 API Key，接入全球 LLM 🚀</h2>
 
 # 热门大模型 API Key：Gemini API Key / OpenAI API Key / Anthropic API Key / ChatGPT API Key
 
