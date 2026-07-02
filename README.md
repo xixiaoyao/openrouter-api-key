@@ -1,35 +1,3 @@
-<title>制作 GitHub SEO 引流页需求</title>
-
-## 需求背景
-
-参考云雾 CEO 的 GitHub 页面（https://github.com/a37836323/-chatgpt4.0-api-key），在 Github 夕小瑶账号为 TeamoRouter 做一个 README 页面，用于承接搜索「热门大模型 API」「AI API 中转站」等关键词的开发者流量，并引导用户注册获取 API Key。
-
-![图片展示的是云雾CEO的GitHub页面，页面上方有搜索框、语言选择等导航栏。中间部分突出显示“免费获取API KEY - 点击这里”，并介绍云雾API是OpenAI官方中转服务，可免费使用GPT-3.5、GPT-4.0、GPT-4x、Claude等227+模型。下方有“快速开始”“模型超低定价”等板块，还列出多个API接口及示例代码。底部有“查看数据”“常见问题”等板块。该图片与文档中制作GitHub SEO引流页需求的背景相关，展示了类似页面的示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2MwZWVjY2U0MjMyMjBmM2I2YTE2NTQzNTU5Zjk1YWNfODZiYjNjZGZiY2ZiZGMxZjNlN2UxZWE1OWI0YTIwOWJfSUQ6NzY1Nzg0NTk1NzE1MzI0NjEzOV8xNzgzMDAwMzc2OjE3ODMwMDM5NzZfVjM)
-
-## 标题要求
-
-标题包含 **“热门大模型”** 和 **“API Key”，比如：**
-
-[gemini api key](https://sem.3ue.com/analytics/keywordoverview/?q=gemini%20api%20key&db=us&__gmitm=ayWzA3*l4EVcTpZei43sW*qRvljSdU)
-
-[openai api key](https://sem.3ue.com/analytics/keywordoverview/?q=openai%20api%20key&db=us&__gmitm=ayWzA3*l4EVcTpZei43sW*qRvljSdU)
-
-[anthropic api key](https://sem.3ue.com/analytics/keywordoverview/?q=anthropic%20api%20key&db=us&__gmitm=ayWzA3*l4EVcTpZei43sW*qRvljSdU)
-
-[chatgpt api key](https://sem.3ue.com/analytics/keywordoverview/?q=chatgpt%20api%20key&db=us&__gmitm=ayWzA3*l4EVcTpZei43sW*qRvljSdU)
-
-## 页面内容
-
-```Plain Text
-顶部CTA
-快速导航，提供网站链接
-模型和定价
-使用步骤
-常见问题
-```
-
-# 免费领取API-[点击这里](https://teamorouter.com/dashboard?tab=api-keys)
-
 # 🚀[TeamoRouter API](https://teamorouter.com/)-🚀 一个 API Key，接入全球LLM
 
 # 热门大模型 API Key：Gemini API Key / OpenAI API Key / Anthropic API Key / ChatGPT API Key
